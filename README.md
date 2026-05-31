@@ -1,4 +1,4 @@
-4# Assignment 2 — NER Tagger
+## Assignment 2 — NER Tagger
 Deadline: **14/06/2026, 23:59**
 
 ## Your Implementation
